@@ -1,0 +1,69 @@
+.heroTwo-holder {
+	height: 70vh;
+	border-bottom-left-radius: 300px;
+	display: flex;
+	margin-bottom: 100px;
+}
+
+.heroTwo-content {
+	width: 50%;
+	background-color: #c07b71;
+	border-bottom-left-radius: 300px;
+	display: flex;
+}
+
+.promo-info {
+	width: 500px;
+	margin: 0 auto;
+}
+
+p {
+	width: 400px;
+	margin: 0 auto;
+	color: white;
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 30px;
+}
+
+.circle {
+	width: 200px;
+	height: 200px;
+	margin: 50px auto;
+	border: 10px solid white;
+	border-radius: 180px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 25px;
+	line-height: 30px;
+	color: white;
+	font-weight: 600;
+	text-align: center;
+}
+
+.heroTwo {
+	background-image: url("../../images/aquasuit.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 50%;
+}
+
+.btn-holder {
+	width: 500px;
+	display: block;
+}
+
+.heroTwo-btn {
+	width: 500px;
+	height: 80px;
+	background-color: white;
+	font-size: 25px;
+	color: #000;
+	border-radius: 40px;
+	margin-bottom: 20px;
+	text-decoration: none;
+	padding: 20px 100px;
+	border: none;
+}

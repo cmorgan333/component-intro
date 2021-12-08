@@ -1,0 +1,24 @@
+.pop-categories {
+	height: 300px;
+	margin-top: 30px;
+}
+
+.pop-buttons {
+	height: 200px;
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.pop-btn {
+	width: 400px;
+	height: 120px;
+	border-radius: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 40px;
+	color: white;
+	text-decoration: none;
+	background-color: #5bb3aa;
+}

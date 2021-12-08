@@ -1,0 +1,70 @@
+.hero-holder {
+	height: 100vh;
+	background-color: #5bb3aa;
+}
+
+.hero {
+	background-image: url("../../images/pilates.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 85vh;
+	width: 100%;
+	border-bottom-left-radius: 300px;
+	display: flex;
+	justify-content: right;
+}
+
+.hero-text {
+	width: 300px;
+	/* padding-right: 100px; */
+	margin-top: 300px;
+	margin-right: 100px;
+	text-align: left;
+
+	/* font-size: 30px; */
+}
+
+.good-tightings {
+	align-items: center;
+	font-size: 60px;
+	font-weight: 700;
+	margin-top: 30px;
+	color: white;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+.comfort {
+	width: 300px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	letter-spacing: 1px;
+	line-height: 25px;
+	font-size: 20px;
+	color: #000;
+}
+
+.btn-white {
+	width: 300px;
+	height: 80px;
+	border-radius: 50px;
+	background-color: white;
+	z-index: 99;
+	border: none;
+	font-size: 25px;
+}
+
+/* .btn-white {
+	color: #000;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 15px 50px;
+	background-color: white;
+} */
